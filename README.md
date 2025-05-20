@@ -17,4 +17,5 @@ Building a web hub for the Czech DnD 5E community.
 A web application serving as the central point for the Czech DnD 5E scene. Currently under development.
 
 ## Github Stats
-![W1‑SK’s GitHub stats]([https://github-readme-stats.vercel.app/api?username=W1-SK&show_icons=true](https://github-readme-stats.vercel.app/api?username=W1-SK&show_icons=true&theme=onedark))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W1-SK&show_icons=true&theme=onedark)
+
